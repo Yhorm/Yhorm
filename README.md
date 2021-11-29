@@ -4,7 +4,7 @@
 
 * Meus emails para contato: [Gmail](mailto:felipemossato25@gmail.com?subject=[GitHub]), [Hotmail](mailto:demongo90@hotmail.com)
 * Esse github possui de maioria trabalhos em front-end.
-* Estudo JS, CSS & HTML
+* Estudo JS, CSS, HTML e C#
 * Estudante do 1o EmpregoTech
 <div>
 <a href="https://github.com/Yhorm">
